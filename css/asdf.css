@@ -1,0 +1,6 @@
+
+@media screen and (max-width: 768px) {
+    /* The body's bg color will be #333 */
+    body {
+      background-color: rgb(255, 0, 0);
+    }
